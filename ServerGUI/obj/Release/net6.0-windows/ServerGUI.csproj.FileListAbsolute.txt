@@ -1,0 +1,17 @@
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\bin\Release\net6.0-windows\ServerGUI.exe
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\bin\Release\net6.0-windows\ServerGUI.deps.json
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\bin\Release\net6.0-windows\ServerGUI.runtimeconfig.json
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\bin\Release\net6.0-windows\ServerGUI.dll
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\bin\Release\net6.0-windows\ServerGUI.pdb
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.csproj.AssemblyReference.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.Form1.resources
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.csproj.GenerateResource.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.AssemblyInfoInputs.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.AssemblyInfo.cs
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.dll
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\refint\ServerGUI.dll
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.pdb
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ServerGUI.genruntimeconfig.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_4\PD_4\ServerGUI\obj\Release\net6.0-windows\ref\ServerGUI.dll

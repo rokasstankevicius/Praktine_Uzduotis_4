@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerGUI", "ServerGUI\ServerGUI.csproj", "{6E00E2A2-BACD-4540-8014-188667BED255}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientGUI", "ClientGUI\ClientGUI.csproj", "{9D49D3C7-E5CD-4401-8B32-132DDC662878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceverGUI", "ReceverGUI\ReceverGUI.csproj", "{3928B5CD-15BE-4DA2-B307-A29CD50116B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E00E2A2-BACD-4540-8014-188667BED255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E00E2A2-BACD-4540-8014-188667BED255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E00E2A2-BACD-4540-8014-188667BED255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E00E2A2-BACD-4540-8014-188667BED255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D49D3C7-E5CD-4401-8B32-132DDC662878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D49D3C7-E5CD-4401-8B32-132DDC662878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D49D3C7-E5CD-4401-8B32-132DDC662878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D49D3C7-E5CD-4401-8B32-132DDC662878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3928B5CD-15BE-4DA2-B307-A29CD50116B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3928B5CD-15BE-4DA2-B307-A29CD50116B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3928B5CD-15BE-4DA2-B307-A29CD50116B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3928B5CD-15BE-4DA2-B307-A29CD50116B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {148986AF-CC91-4EAE-8EE3-575873C10C7B}
+	EndGlobalSection
+EndGlobal
